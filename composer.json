@@ -1,0 +1,11 @@
+{
+    "name": "nicollas.leite/api_php",
+    "description": "API",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
